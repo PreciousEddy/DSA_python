@@ -8,5 +8,11 @@
 
 <!--- Remember values, not variables, have data types. --->
 <!--- A variable can be reassigned to contain a different data type. --->
-> answer = 42
-> answer = "The answer is 42."
+	```
+{
+    answer = 42
+
+    answer = "The answer is 42."
+  
+}
+```
