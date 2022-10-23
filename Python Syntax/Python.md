@@ -18,7 +18,7 @@
 
 ## Data Types
 <pre>
-  **boolean = True**
+  '''boolean = True'''
 
   number = 1.1
 
@@ -42,9 +42,9 @@
 
   Pay attention to the indentation always.  
 <pre>
-   **if** cake == "delicious":
+   '''if cake''' == "delicious":
       return "Yes please!"
-   **elif** cake == "okay":
+   '''elif''' cake == "okay":
        return "I'll have a small piece."
    **else:**
   	return "No, thank you."
