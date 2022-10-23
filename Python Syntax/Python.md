@@ -1,5 +1,4 @@
-
- # Comments
+# Comments
 
  <!--- This is a one-line comment - code blocks are so useful! --->
 
@@ -11,4 +10,3 @@
 <!--- A variable can be reassigned to contain a different data type. --->
 > answer = 42
 > answer = "The answer is 42."
-
