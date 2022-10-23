@@ -18,7 +18,7 @@
 
 ## Data Types
 <pre>
-  '''boolean = True'''
+  <b>boolean = True</b>
 
   number = 1.1
 
