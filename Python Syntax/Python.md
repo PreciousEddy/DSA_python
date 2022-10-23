@@ -40,69 +40,44 @@
 
   Pay attention to the indentation always.  
 
-  > **if** cake == "delicious":
-
-  >    return "Yes please!"
-
-  > **elif** cake == "okay":
-
-  >     return "I'll have a small piece."
-
+  > **if** cake == "delicious":<br>
+  >    return "Yes please!"<br>
+  > **elif** cake == "okay":<br>
+  >     return "I'll have a small piece."<br>
   > **else:**
-
-  >	return "No, thank you."
+  >	return "No, thank you."<br>
 
 ## Loops
   
-  > **for** item in **list:**
-
-  >	    print item
-
-  > **while** (total < max_val):
-
-  > 	     total += values[i]
-
+  > **for** item in **list:**<br>
+  >	    print item<br>
+  > **while** (total < max_val):<br>
+  > 	     total += values[i]<br>
   > 	     i += 2
 
 ## Functions
 
-  > **def divide**(dividend, divisor):
-
-  >	  quotient = dividend / divisor
-
-  >  	  remainder = dividend % divisor
-
-  >   	  **return** quotient, remainder
-
-  >
-
-  >
-
-  >
-
-  > **def calculate_stuff**(x, y):
-
-  >       (q, r) = divide(x,y)
-
-  > 	  **print** q, r
+  > **def divide**(dividend, divisor):<br>
+  >	  quotient = dividend / divisor<br>
+  >  	  remainder = dividend % divisor<br>
+  >   	  **return** quotient, remainder<br>
+  ><br>
+  ><br>
+  ><br>
+  > **def calculate_stuff**(x, y):<br>
+  >       (q, r) = divide(x,y)<br
+  > 	  **print** q, r<br>
 
 ## Classes
 
-  > **class Person:**
-
-  >	**def**__init__(self, name, age):
-
-  >	       self.name = name
-
-  > 	       self.age = age
-
+  > **class Person:**<br>
+  >	**def**__init__(self, name, age):<br>
+  >	       self.name = name<br>
+  > 	       self.age = age<br>
+  ><br>
   >
-
-  >
-
-  >	**def birthday**():
-
-  > 	      self.age +=1
+  >	**def birthday**():<br>
+  > 	      self.age +=1<br>
 
 
  
