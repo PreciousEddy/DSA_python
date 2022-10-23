@@ -42,45 +42,45 @@
 
   Pay attention to the indentation always.  
 <pre>
-   '''if cake''' == "delicious":
+  if <b>cake</b> == "delicious":
       return "Yes please!"
-   '''elif''' cake == "okay":
+   <b>elif</b> cake == "okay":
        return "I'll have a small piece."
-   **else:**
+  <b>else:</b>
   	return "No, thank you."
 </pre>
 
 ## Loops
  <pre>
-   **for** item in **list:**
+   <b>for</b> item in <b>list:</b>
   	    print item
-   **while** (total < max_val):
+   <b>while</b> (total < max_val):
    	     total += values[i]
    	     i += 2
 </pre>
 
 ## Functions
 <pre>
-  **def divide**(dividend, divisor):
+  <b>def divide</b>(dividend, divisor):
   	  quotient = dividend / divisor
     	  remainder = dividend % divisor
-     	  **return** quotient, remainder
+  <b>return</b> quotient, remainder
  
 
-   **def calculate_stuff**(x, y):
+   <b>def calculate_stuff</b>(x, y):
          (q, r) = divide(x,y)
-  	  **print** q, r
+   <b>print</b> q, r
 </pre>
 
 ## Classes
 <pre>
-   **class Person:**
-  	**def**__init__(self, name, age):
+   <b>class Person:</b>
+  	<b>def__init__</b>(self, name, age):
   	       self.name = name
    	       self.age = age
   
   
-  	**def birthday**():
+  	<b>def birthday</b>():
    	      self.age +=1
 </pre>
 
