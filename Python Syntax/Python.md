@@ -48,36 +48,37 @@
   >	return "No, thank you."<br>
 
 ## Loops
-  
+ <pre>
   > **for** item in **list:**<br>
   >	    print item<br>
   > **while** (total < max_val):<br>
   > 	     total += values[i]<br>
   > 	     i += 2
+</pre>
 
 ## Functions
-
+<pre>
   > **def divide**(dividend, divisor):<br>
-  >	  quotient = dividend / divisor<br>
+  >	  quotient = dividend / divisor<br><
   >  	  remainder = dividend % divisor<br>
   >   	  **return** quotient, remainder<br>
-  ><br>
-  ><br>
-  ><br>
+  >
+  >
   > **def calculate_stuff**(x, y):<br>
-  >       (q, r) = divide(x,y)<br
+  >       (q, r) = divide(x,y)
   > 	  **print** q, r<br>
+</pre>
 
 ## Classes
-
+<pre>
   > **class Person:**<br>
   >	**def**__init__(self, name, age):<br>
   >	       self.name = name<br>
   > 	       self.age = age<br>
-  ><br>
+  >
   >
   >	**def birthday**():<br>
   > 	      self.age +=1<br>
-
+</pre>
 
  
