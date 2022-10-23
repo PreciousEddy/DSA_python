@@ -41,42 +41,67 @@
   Pay attention to the indentation always.  
 
   > **if** cake == "delicious":
+
   >    return "Yes please!"
+
   > **elif** cake == "okay":
+
   >     return "I'll have a small piece."
+
   > **else:**
+
   >	return "No, thank you."
 
 ## Loops
   
   > **for** item in **list:**
+
   >	    print item
+
   > **while** (total < max_val):
+
   > 	     total += values[i]
+
   > 	     i += 2
 
 ## Functions
 
   > **def divide**(dividend, divisor):
+
   >	  quotient = dividend / divisor
+
   >  	  remainder = dividend % divisor
+
   >   	  **return** quotient, remainder
+
   >
+
   >
+
   >
+
   > **def calculate_stuff**(x, y):
+
   >       (q, r) = divide(x,y)
+
   > 	  **print** q, r
 
 ## Classes
 
   > **class Person:**
+
   >	**def**__init__(self, name, age):
+
   >	       self.name = name
+
   > 	       self.age = age
+
   >
+
   >
+
   >	**def birthday**():
+
   > 	      self.age +=1
 
 
